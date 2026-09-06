@@ -1,2 +1,2 @@
 # beginning-bioinformatics
-Beginning bioinformatics 5340-001
+Bryan Le + 1001992414 + BIOL5340-001
